@@ -11,5 +11,5 @@ RestAPI untuk aplikasi absensi
 3. Jalankan composer update dan jalankan program
 
 ## Dokumentasi API
-Cek pada postman [API Absensi](https://documenter.getpostman.com/view/13137414/2s8YsqVaSC)
+Cek pada postman [API Absensi](https://documenter.getpostman.com/view/13137414/2s8Yt1r9FV)
 
